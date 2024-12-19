@@ -1,0 +1,2 @@
+# GorrasAfiliados
+Json static afiliados
