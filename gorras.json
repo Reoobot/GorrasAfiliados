@@ -1,0 +1,44 @@
+[
+    {
+      "category": "Gorras Cristianas",
+      "products": [
+        {
+          "id": 1,
+          "title": "Gorra cristiana para hombres y mujeres Talla única",
+          "description": "Cómodo de llevar libre de ajustar el tamaño de la circunferencia del sombrero.",
+          "images": [
+            "gorras.jpg",
+            "gorras1.jpg",
+            "gorras2.jpg",
+            "gorras3.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+        },
+        {
+          "id": 2,
+          "title": "Sombrero Ichthus con Cruz Símbolo de Pez Cristiano",
+          "description": "Sombrero Ichthus con Cruz Símbolo de Pez Cristiano.",
+          "images": [
+            "gorras4.jpg",
+            "gorras5.jpg",
+            "gorras6.jpg",
+            "gorras7.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+        },
+        {
+          "id": 3,
+          "title": "90 tarjetas de oración con versículos de la Biblia de colores.",
+          "description": "Regalo para animar cristiano  basados en la fe – Regalos cristianos para hombres y mujeres",
+          "images": [
+           "articulo8.jpg",
+            "articulo9.jpg",
+            "articulo10.jpg",
+            "articulo11.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+        }
+      ]
+    }
+  ]
+  
