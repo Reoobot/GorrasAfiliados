@@ -4,39 +4,39 @@
       "products": [
         {
           "id": 1,
-          "title": "Gorra cristiana para hombres y mujeres Talla única",
-          "description": "Cómodo de llevar libre de ajustar el tamaño de la circunferencia del sombrero.",
+          "title": "Gorra cristiana para hombres y mujeres Talla única Ajustable, clásica",
+          "description": "Perfecto para una variedad de ocasiones, desde actividades al aire libre hasta uso diario.",
           "images": [
-            "gorras.jpg",
             "gorras1.jpg",
             "gorras2.jpg",
-            "gorras3.jpg"
+            "gorras3.jpg",
+            "gorras4.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+          "price_link": "https://amzn.to/3BN9Zoc"
         },
         {
           "id": 2,
-          "title": "Sombrero Ichthus con Cruz Símbolo de Pez Cristiano",
-          "description": "Sombrero Ichthus con Cruz Símbolo de Pez Cristiano.",
+          "title": "Jesus is My All My Everything",
+          "description": "Póntelo con tus jeans, camiseta o top favoritos y conquista con un estilo.",
           "images": [
-            "gorras4.jpg",
-            "gorras5.jpg",
-            "gorras6.jpg",
-            "gorras7.jpg"
+            "gorra5.jpg",
+            "gorra6.jpg",
+            "gorra7.jpg",
+            "gorra8.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+          "price_link": "https://amzn.to/4gpyFlU"
         },
         {
           "id": 3,
-          "title": "90 tarjetas de oración con versículos de la Biblia de colores.",
-          "description": "Regalo para animar cristiano  basados en la fe – Regalos cristianos para hombres y mujeres",
+          "title": "Símbolo de Pez Cristiano Sombrero de Vaquero Gorra de Béisbol Hombres Mujeres.",
+          "description": "Simple pero personalizada: la impresionante gorra de béisbol lavada con su elegante adorno bordado te hará destacar entre todos.",
           "images": [
-           "gorras8.jpg",
-            "gorras9.jpg",
-            "gorras10.jpg",
-            "gorras11.jpg"
+           "gorra9.jpg",
+            "gorra10.jpg",
+            "gorra11.jpg",
+            "gorra12.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+          "price_link": "https://amzn.to/3VL6xBy"
         }
       ]
     }
